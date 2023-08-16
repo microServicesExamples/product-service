@@ -1,4 +1,4 @@
-module github.com/microServicesExamples/productService
+module github.com/microServicesExamples/product-service
 
 go 1.19
 
